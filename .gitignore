@@ -1,2 +1,4 @@
 *.pyc
 __pycache__
+web_static/W3C-Validator/
+web_static/w3c_validator.py
