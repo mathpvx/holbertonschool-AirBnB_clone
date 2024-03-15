@@ -1,0 +1,1 @@
+Holberton School Project - Web Static (HTML / CSS) part of Airbnb Clone Project
